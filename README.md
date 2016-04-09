@@ -1,4 +1,5 @@
 # Closeness-Centrality
+# A graph algorithm that calculates the closeness centrality using GraphX
 ￼DEVELOPER INSTRUCTION
 
 Code analysing
