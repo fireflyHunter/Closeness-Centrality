@@ -4,6 +4,7 @@
 1. Code analysing
 
 The code of project include 3 parts:
+
 (def shortest_path)
 Count the shortest paths between a given vertex and all other vertexes in the graph.
 
