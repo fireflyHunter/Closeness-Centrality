@@ -1,7 +1,7 @@
 # Closeness-Centrality
 ￼DEVELOPER INSTRUCTION
 
-1. Code analysing
+Code analysing
 
 The code of project include 3 parts:
 
@@ -14,13 +14,13 @@ Count all the shortest paths by invoking (def shortest_path) in a for loop and s
 (def loadData)
 Load data from a csv file and store the data in a graph as return value.
 
-2. Time Complexity
+Time Complexity
 
 Calculating all the shortest paths in the graph is required in order to further
 calculate the closeness centrality. 
 For the N vertexes graph, there will be N*(N-1)/2 shortest path to be calculated, so the time complexity of this algorithm is (N²).
 
-3. Develop environment
+Develop environment
 
 Java: >= 1.7. Download from “http://www.oracle.com/ technetwork/java/javase/ downloads/index.html”.
 Scala: 2.10.x Should use this version or will cause problems.
